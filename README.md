@@ -12,7 +12,11 @@ Os dados possuem lacunas por causa da falta de publicação de boletins por part
 - Os dados coletados pela equipe do brasil.io é direto dos boletins dos estados, logo podem haver divergências quanto a quantidade 
 comparado com o site do ministério da saúde;
 - Os dados aqui resultantes DESTE NOTEBOOK não tem validação oficial, use por sua conta e risco.
+
+**Obs.:** Os casos importados foram desativados pois não possuem latitude e longitude, mas podem ser contados separadamente através de uma implementação rápida.
+
 ----------------------------------------------------------------------------------------------------
+
 **Bibliotecas utilizadas:**
 - pandas;
 - urllib.request;
