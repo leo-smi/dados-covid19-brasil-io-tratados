@@ -1,0 +1,12 @@
+date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
+2020-03-07,BA,0,state,2,0.0,False,14873064.0,29.0,0.01345,0.0
+2020-03-07,DF,0,state,1,0.0,False,3015268.0,53.0,0.03316,0.0
+2020-03-07,ES,0,state,1,0.0,False,4018650.0,32.0,0.024880000000000003,0.0
+2020-03-07,RJ,0,state,2,0.0,False,17264943.0,33.0,0.01158,0.0
+2020-03-07,SP,0,state,13,0.0,False,45919049.0,35.0,0.02831,0.0
+2020-03-07,RJ,Barra Mansa,city,1,0.0,False,184412.0,3300407.0,0.5422600000000001,0.0
+2020-03-07,DF,Brasília,city,1,0.0,False,3015268.0,5300108.0,0.03316,0.0
+2020-03-07,BA,Feira de Santana,city,2,0.0,False,614872.0,2910800.0,0.32527,0.0
+2020-03-07,RJ,Rio de Janeiro,city,1,0.0,False,6718903.0,3304557.0,0.01488,0.0
+2020-03-07,SP,Santana de Parnaíba,city,1,0.0,False,139447.0,3547304.0,0.71712,0.0
+2020-03-07,SP,São Paulo,city,12,0.0,False,12252023.0,3550308.0,0.09794,0.0
